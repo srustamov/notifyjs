@@ -3,7 +3,7 @@
 
 
 
-# Exaples
+# Examples
 
 ```sh
 
