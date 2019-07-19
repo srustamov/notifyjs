@@ -1,0 +1,15 @@
+{
+  "name": "notify",
+  "version": "1.0.0",
+  "description": "Javascript notification plugin",
+  "main": "dist/notify.js",
+  "keywords": [
+    "javascript",
+    "vanilla",
+    "js",
+    "notify",
+    "popup"
+  ],
+  "author": "Samir Rustamov",
+  "license": "MIT"
+}
